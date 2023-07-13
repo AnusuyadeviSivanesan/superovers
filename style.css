@@ -1,0 +1,33 @@
+
+
+body{
+    background-color: blueviolet;
+    padding: 100px;
+}
+
+
+.team
+{
+    height: 200px;
+    width: 400px;
+    background-color: azure;
+    padding: 20px;
+    margin-right: 20px;
+    float:left;
+}
+
+button{
+    width: 400px;
+    height: 80px;
+    font-size: 32px;
+    padding: 100px;
+    margin-top: 50px;
+    background-color: cornflowerblue;
+    color: bisque;
+    margin-bottom: 100px;
+}
+
+.winner{
+    background-color: blue;
+    color: darkslategray;
+}
